@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A65ADBB6-03A6-4EE0-BE0E-2B648895238D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dados</RootNamespace>
+    <AssemblyName>Dados</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BarbasEntity.cs" />
+    <Compile Include="BigodeEntity.cs" />
+    <Compile Include="GerarPerfisDeExemplo.cs" />
+    <Compile Include="Migrations\201803251240077_InitialCreate.cs" />
+    <Compile Include="Migrations\201803251240077_InitialCreate.Designer.cs">
+      <DependentUpon>201803251240077_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251244463_Adicionado modelo Perfil.cs" />
+    <Compile Include="Migrations\201803251244463_Adicionado modelo Perfil.Designer.cs">
+      <DependentUpon>201803251244463_Adicionado modelo Perfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251245560_Criada_Tabela_Seguir.cs" />
+    <Compile Include="Migrations\201803251245560_Criada_Tabela_Seguir.Designer.cs">
+      <DependentUpon>201803251245560_Criada_Tabela_Seguir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251246562_Corrigida_tabela_seguir.cs" />
+    <Compile Include="Migrations\201803251246562_Corrigida_tabela_seguir.Designer.cs">
+      <DependentUpon>201803251246562_Corrigida_tabela_seguir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251247450_alterada_tabela_seguirs.cs" />
+    <Compile Include="Migrations\201803251247450_alterada_tabela_seguirs.Designer.cs">
+      <DependentUpon>201803251247450_alterada_tabela_seguirs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251248500_Criado model postagem.cs" />
+    <Compile Include="Migrations\201803251248500_Criado model postagem.Designer.cs">
+      <DependentUpon>201803251248500_Criado model postagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251249394_Postagems inserido context.cs" />
+    <Compile Include="Migrations\201803251249394_Postagems inserido context.Designer.cs">
+      <DependentUpon>201803251249394_Postagems inserido context.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251250550_Add_Coluna_UserId.cs" />
+    <Compile Include="Migrations\201803251250550_Add_Coluna_UserId.Designer.cs">
+      <DependentUpon>201803251250550_Add_Coluna_UserId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251251432_CriadoAtividade.cs" />
+    <Compile Include="Migrations\201803251251432_CriadoAtividade.Designer.cs">
+      <DependentUpon>201803251251432_CriadoAtividade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251252276_dbAzure.cs" />
+    <Compile Include="Migrations\201803251252276_dbAzure.Designer.cs">
+      <DependentUpon>201803251252276_dbAzure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251253254_AtualizadasPropriedadesDeBarba.cs" />
+    <Compile Include="Migrations\201803251253254_AtualizadasPropriedadesDeBarba.Designer.cs">
+      <DependentUpon>201803251253254_AtualizadasPropriedadesDeBarba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251254174_AtualizadasPropriedadesDeBarba1.cs" />
+    <Compile Include="Migrations\201803251254174_AtualizadasPropriedadesDeBarba1.Designer.cs">
+      <DependentUpon>201803251254174_AtualizadasPropriedadesDeBarba1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251254568_AtualizadasPropriedadesDeBarba2.cs" />
+    <Compile Include="Migrations\201803251254568_AtualizadasPropriedadesDeBarba2.Designer.cs">
+      <DependentUpon>201803251254568_AtualizadasPropriedadesDeBarba2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201803251255237_RelacaoBarbaBigode.cs" />
+    <Compile Include="Migrations\201803251255237_RelacaoBarbaBigode.Designer.cs">
+      <DependentUpon>201803251255237_RelacaoBarbaBigode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="PerfisEntity.cs" />
+    <Compile Include="PostagensEntity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SeguirEntity.cs" />
+    <Compile Include="SocialWebContext.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{9bdb4261-f622-4e2b-8efb-8df44748d1cc}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201803251240077_InitialCreate.resx">
+      <DependentUpon>201803251240077_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251244463_Adicionado modelo Perfil.resx">
+      <DependentUpon>201803251244463_Adicionado modelo Perfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251245560_Criada_Tabela_Seguir.resx">
+      <DependentUpon>201803251245560_Criada_Tabela_Seguir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251246562_Corrigida_tabela_seguir.resx">
+      <DependentUpon>201803251246562_Corrigida_tabela_seguir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251247450_alterada_tabela_seguirs.resx">
+      <DependentUpon>201803251247450_alterada_tabela_seguirs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251248500_Criado model postagem.resx">
+      <DependentUpon>201803251248500_Criado model postagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251249394_Postagems inserido context.resx">
+      <DependentUpon>201803251249394_Postagems inserido context.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251250550_Add_Coluna_UserId.resx">
+      <DependentUpon>201803251250550_Add_Coluna_UserId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251251432_CriadoAtividade.resx">
+      <DependentUpon>201803251251432_CriadoAtividade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251252276_dbAzure.resx">
+      <DependentUpon>201803251252276_dbAzure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251253254_AtualizadasPropriedadesDeBarba.resx">
+      <DependentUpon>201803251253254_AtualizadasPropriedadesDeBarba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251254174_AtualizadasPropriedadesDeBarba1.resx">
+      <DependentUpon>201803251254174_AtualizadasPropriedadesDeBarba1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251254568_AtualizadasPropriedadesDeBarba2.resx">
+      <DependentUpon>201803251254568_AtualizadasPropriedadesDeBarba2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201803251255237_RelacaoBarbaBigode.resx">
+      <DependentUpon>201803251255237_RelacaoBarbaBigode.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

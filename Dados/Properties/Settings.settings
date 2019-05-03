@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Dados.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Server=tcp:rdadmin.database.windows.net,1433;Initial Catalog=RedeSocial_DB;Persist Security Info=False;User ID=rdadmin;Password=@Muniiz189981;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Server=tcp:rdadmin.database.windows.net,1433;Initial Catalog=RedeSocial_DB;Persist Security Info=False;User ID=rdadmin;Password=@Muniiz189981;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,188 @@
+﻿@model SocialBarbaWeb.Models.DashboardModel
+
+@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>Perfil</h3>
+<div>
+    <hr />
+</div>
+
+<div class="thumbnail">
+    <div class="thumbnail text-left row">
+        <a href="@Url.Action("PerfilVisitado", new { userId = Model.UserId } )" title="@Html.DisplayFor(model => model.nomePerfil)">
+            <div class="col-sm-6 col-md-6 col-xs-6">
+                <img id="img-perfil" src="@Html.DisplayFor(model => model.fotoPerfil)" alt="Lights" class="img-perfil img-circle">
+            </div>
+        </a>
+        <div class="caption col-sm-6 col-md-6 col-xs-6">
+            <span class="nome-perfil">@Html.DisplayFor(model => model.nomePerfil)</span>
+            <h5>Fotos <span class="badge">@Model.postagens.Where(x => x.FotoPostagem != null).Count()</span></h5>
+            <h5>Seguindo <span class="badge">@Model.PerfisSeguidos.Count().ToString()</span></h5>
+            <div class="text-right pull-left">
+                @if (Model.UserId.ToString() == User.Identity.GetUserId())
+        {
+            <a href="@Url.Action("../Perfis/Edit", new { id = Model.idPerfil })" title="Editar">
+                <span class="btn btn-primary btn-sm">
+                    Editar
+                    <span class="glyphicon glyphicon-edit" aria-hidden="true"></span>
+                </span>
+            </a>
+}
+else
+{
+    if (Model.ChecaSeSeguePerfil)
+    {
+        <a href="@Url.Action("../Seguirs/DeixarDeSeguir", new { id = Model.idPerfil })" title="Seguir" class="btn btn-primary btn-sm">
+            <span aria-hidden="true">Deixar de seguir</span>
+            <span class="glyphicon glyphicon-bell" aria-hidden="true"></span>
+        </a>
+}
+else
+{
+        <a href="@Url.Action("../Seguirs/SeguirPerfil", new { id = Model.idPerfil })" title="Seguir" class="btn btn-primary btn-sm">
+            <span aria-hidden="true">Seguir</span>
+            <span class="glyphicon glyphicon-bell" aria-hidden="true"></span>
+        </a>
+}
+
+}
+            </div>
+        </div>
+    </div>
+    <hr />
+    <div class="thumbnail">
+        <span class="painel-title">Seguindo <a href="#">@Model.PerfisSeguidos.Count()</a></span>
+    </div>
+
+    <div class="lista-amigos">
+        <div class="row">
+            @foreach (var seguido in Model.PerfisSeguidos.Take(8))
+            {
+                <div class="thumbnail col-sm-3 col-xs-3">
+                    <a href="@Url.Action("PerfilVisitado", new { userId = seguido.UserID } )">
+                        <img id="foto-thumb-seguir" src="@seguido.FotoPerfil" title="@seguido.NomeExibicao" class="foto-thumb-seguir" />
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+    <hr />
+    <div class="thumbnail">
+        <span class="painel-title">Seguidores <a href="#">@Model.PerfisSeguidores.Count()</a></span>
+    </div>
+    <div class="lista-amigos">
+        <div class="row">
+            @foreach (var seguidor in Model.PerfisSeguidores.Take(8))
+            {
+                <div class="thumbnail col-sm-3 col-xs-3">
+                    <a href="@Url.Action("PerfilVisitado", new { userId = seguidor.UserID } )">
+                        <img id="foto-thumb-seguir" src="@seguidor.FotoPerfil" title="@seguidor.NomeExibicao" class="foto-thumb-seguir" />
+                        @*<figcaption class="cap-thumb-seguir caption">
+                            @seguidor.NomeExibicao.ElementAt(0)
+                        </figcaption>*@
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+    <hr />
+    <div class="thumbnail">
+        <span class="painel-title">Galeria de fotos <a href="#">@Model.postagens.Where(x => x.FotoPostagem != null).Count()</a></span>
+    </div>
+    <div class="lista-amigos">
+        <div class="row">
+            @foreach (var postagem in Model.postagens)
+            {
+                if (postagem.FotoPostagem != null)
+                {
+                    <div class="thumbnail col-sm-6 col-xs-6">
+                        <a href="#">
+                            <img id="foto-thumb-post" src="@postagem.FotoPostagem" title="Foto postagem" class="foto-thumb-post" />
+                        </a>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>
+
+<div class="col-sm-6 text-left">
+    <div class="thumbnail">
+        <span class="painel-title">Minhas atividades <span class="badge">@Model.postagens.Count()</span></span>
+    </div>
+
+    <hr />
+    @foreach (var post in Model.postagens)
+    {
+        <div class="qa-message-list" id="wallmessages">
+            <div class="message-item" id="m16">
+                <div>
+                    <div class="message-head clearfix">
+                        <div class="avatar pull-left">
+                            <a href="@Url.Action("PerfilVisitado", new { userId = post.UserId } )">
+                                <img id="foto-post" src="@Html.DisplayFor(model => post.UserFoto)" title="@Html.DisplayFor(modelItem => post.UserName)" class="foto-post">
+                            </a>
+                        </div>
+                        <div class="user-detail">
+                            <h5 class="handle">
+                                <a href="@Url.Action("PerfilVisitado", new { userId = post.UserId } )">
+                                    @Html.DisplayFor(modelItem => post.UserName)
+                                </a>
+                            </h5>
+                            <div class="post-meta">
+                                <div class="asker-meta">
+                                    <span class="qa-message-what"></span>
+                                    <span class="qa-message-when">
+                                        <span class="qa-message-when-data">
+                                            @Html.DisplayFor(modelItem => post.DataPostagem)
+                                        </span>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="qa-message-content">
+                        @if (post.FotoPostagem != null)
+                        {
+                            <img class="img-responsive img-circle" src="@post.FotoPostagem" />
+                        }
+                    </div>
+                    <div class="qa-message-content">
+                        @Html.DisplayFor(modelItem => post.TextoPostagem)
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    @*<span class="painel-title pull-right">Ver <span class="glyphicon">+ </span></span>
+</div>
+<div class="col-sm-2 sidenav">
+    <div class="thumbnail">
+        <span class="painel-title">Minhas Barbas <span class="badge">@Model.Barbas.Count()</span></span>
+    </div>
+    @foreach (var barba in Model.Barbas)
+    {
+        <div class="thumbnail barbaThumb col-xs-5 col-md-12">
+            <div class="barbaContent">
+                <div class="thumbnail barbaTitle text-center">@barba.Nome</div>
+                <div><span class="barbaPreTexto">Tipo: </span><span class="barbaTexto">@barba.Tipo</span></div>
+                <div><span class="barbaPreTexto">Capacidade:</span><span class="barbaTexto">@barba.Capacidade</span></div>
+                <div><span class="barbaPreTexto">Dono: </span><span class="barbaTexto">@barba.UserName</span></div>
+            </div>
+        </div>
+    }
+    <div>
+        @if (Model.UserId.ToString() == User.Identity.GetUserId())
+        {
+            <a href="#">
+                <h5><span class="pull-right">Criar barba</span></h5>
+            </a>
+        }
+    </div>
+</div>*@
+
+

@@ -1,0 +1,87 @@
+﻿@using SocialBarbaWeb.Models
+@model SocialBarbaWeb.Models.LoginViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <title>GlobalCon | Login</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Antissocial" />
+    <script type="application/x-javascript">
+         addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+        function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <link rel="stylesheet" href="/customizedLogin/css/style.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="/customizedLogin/css/font-awesome.css">
+    <link href="//fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin-ext,vietnamese" rel="stylesheet">
+</head>
+<body>
+    <!-- main -->
+    <div class="w3ls-header">
+        <h1>GlobalCon</h1>
+        <div class="header-main">
+            <h2>Nosso encontro é aqui!</h2>
+            <div class="header-bottom">
+                <div class="header-right w3agile">
+                    <div class="header-left-bottom agileinfo">
+                        @using (Html.BeginForm("customizedLogin", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                        {
+                            @Html.AntiForgeryToken()
+                            <h4></h4>
+                                        <hr />
+                                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        
+                        <div class="form-group">
+                            <div class="icon1">
+                                @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control" , @type="email"})
+                                    @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" , @type = "password" })
+                                </div>
+                            </div>
+                         </div>
+
+                        <div class="form-group">
+                            <div class="icon1">
+                                @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                                <div class="col-md-10">
+                                    @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="login-check">
+                            <label class="checkbox">@Html.CheckBoxFor(m => m.RememberMe) Keep me logged in</label>
+                        </div>
+
+                        <div class="bottom">
+                            <input type="submit" value="Log in" />
+                        </div>
+
+                        <p>
+                            @Html.ActionLink("Register as a new user", "Register")
+                        </p>
+
+                        <p><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a> : login with google-plus</p>
+                       
+                        }
+
+                        <section id="socialLoginForm">
+                            @Html.Partial("_ExternalLoginsListPartial", new ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--header end here-->
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</body>
+</html>
+

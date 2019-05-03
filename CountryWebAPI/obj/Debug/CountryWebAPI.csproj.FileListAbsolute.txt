@@ -1,0 +1,202 @@
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csc.exe
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csc.exe.config
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csc.rsp
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csi.exe
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csi.exe.config
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csi.rsp
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.AppContext.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Console.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Diagnostics.Process.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.IO.Compression.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.IO.Pipes.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Claims.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Threading.Thread.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.ValueTuple.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\vbc.exe
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\vbc.exe.config
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\vbc.rsp
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\VBCSCompiler.exe
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\CountryWebAPI.dll.config
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\CountryWebAPI.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\CountryWebAPI.pdb
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Antlr3.Runtime.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.Web.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Newtonsoft.Json.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Net.Http.Formatting.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Helpers.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Http.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Http.WebHost.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Mvc.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Optimization.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Razor.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\WebGrease.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Newtonsoft.Json.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Net.Http.Formatting.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Helpers.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Http.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Http.WebHost.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Mvc.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Optimization.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Razor.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Antlr3.Runtime.pdb
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.Web.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\obj\Debug\CountryWebAPI.csprojResolveAssemblyReference.cache
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\obj\Debug\CountryWebAPI.csproj.CoreCompileInputs.cache
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\obj\Debug\CountryWebAPI.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\obj\Debug\CountryWebAPI.pdb
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\DomainModel.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\EntityFramework.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\EntityFramework.SqlServer.dll
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\DomainModel.pdb
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\EntityFramework.xml
+E:\Google Drive\Documentos\Trabalho\Infnet\Bloco .NET\2018_T1_Projeto\Codes\SimpleSocialNetwork\CountryWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csc.exe
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csc.exe.config
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csc.rsp
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csi.exe
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csi.exe.config
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\csi.rsp
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Console.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\vbc.exe
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\vbc.rsp
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\CountryWebAPI.dll.config
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\CountryWebAPI.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\CountryWebAPI.pdb
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\DomainModel.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\EntityFramework.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Helpers.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Http.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Mvc.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Optimization.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Razor.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\WebGrease.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\DomainModel.pdb
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\EntityFramework.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Helpers.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Http.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Mvc.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Optimization.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.Razor.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\obj\Debug\CountryWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\obj\Debug\CountryWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\obj\Debug\CountryWebAPI.dll
+C:\Users\Milena Knupp\Downloads\simplesocialnetwork-Ramon\SimpleSocialNetwork\CountryWebAPI\obj\Debug\CountryWebAPI.pdb

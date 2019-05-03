@@ -1,0 +1,79 @@
+﻿@model SocialBarbaWeb.Models.RedeModel
+
+@{
+    ViewBag.Title = "TodaRede";
+}
+
+<h2>Usuários cadastrados na rede social</h2>
+<hr />
+<div class="col-sm-4 sidenav">
+    <div class="thumbnail">
+        <span class="painel-title">Global <span class="badge">@Model.TodosOsPerfis.Count()</span> </span>
+    </div>
+    <div class="lista-amigos">
+        <div class="row">
+            @foreach (var perfil in Model.TodosOsPerfis)
+            {
+                <div class="jumbotron">
+                    <a href="@Url.Action("PerfilVisitado", new { userId = perfil.UserID } )">
+                        <img id="foto-thumb-seguir" src="@perfil.FotoPerfil" title="@perfil.NomeExibicao" class="foto-thumb-seguir" />
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<div class="col-sm-6 text-left">
+    <div class="thumbnail">
+        <span class="painel-title">Ultimas postagens <span class="badge">@Model.TodasAsPostagens.Count()</span></span>
+    </div>
+
+    @*-----Lista de postagens-----*@
+    @foreach (var item in Model.TodasAsPostagens)
+    {
+        <div class="thumbnail">
+            <div class="message-item" id="m16">
+                <div>
+                    <div class="message-head clearfix">
+                        <div class="avatar pull-left">
+                            <a href="@Url.Action("PerfilVisitado", new { userId = item.UserId } )">
+                                <img src="@Html.DisplayFor(model => item.UserFoto)" title="@Html.DisplayFor(modelItem => item.UserName)" class="imgPost">
+                            </a>
+                        </div>
+                        <div class="user-detail">
+                            <h5 class="handle">
+                                <a href="@Url.Action("PerfilVisitado", new { userId = item.UserId } )">
+                                    @Html.DisplayFor(modelItem => item.UserName)
+                                </a>
+                            </h5>
+                            <div class="post-meta">
+                                <div class="asker-meta">
+                                    <span class="qa-message-what"></span>
+                                    <span class="qa-message-when">
+                                        <span class="qa-message-when-data">
+                                            @Html.DisplayFor(modelItem => item.DataPostagem)
+                                        </span>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="qa-message-content">
+                        @Html.DisplayFor(modelItem => item.TextoPostagem)
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+@*<div class="col-sm-2 sidenav">
+    <div class="well">
+        <a href="@Url.Action("../BuscarPerfil/BuscarPerfil")" title="Buscar">
+            <span class="btn btn-primary btn-sm">
+                Buscar usuários
+                <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+            </span>
+        </a>
+    </div>
+</div>*@
+

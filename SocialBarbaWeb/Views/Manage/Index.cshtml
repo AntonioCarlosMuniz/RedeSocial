@@ -1,0 +1,28 @@
+﻿@model SocialBarbaWeb.Models.IndexViewModel
+
+@{
+    ViewBag.Title = "Gerenciar conta";
+}
+
+<h3>@ViewBag.Title.</h3>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div>
+    <h4>Mudar sua senha</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Senha:</dt>
+        <dd>
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Mudar sua senha", "ChangePassword")
+            }
+            else
+            {
+                @Html.ActionLink("Criar", "SetPassword")
+            }
+            ]
+        </dd>
+    </dl>
+</div>
